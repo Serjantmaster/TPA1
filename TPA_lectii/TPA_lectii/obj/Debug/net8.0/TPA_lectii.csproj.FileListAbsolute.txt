@@ -1,0 +1,14 @@
+C:\Users\Professional\source\repos\TPA_lectii\TPA_lectii\bin\Debug\net8.0\TPA_lectii.exe
+C:\Users\Professional\source\repos\TPA_lectii\TPA_lectii\bin\Debug\net8.0\TPA_lectii.deps.json
+C:\Users\Professional\source\repos\TPA_lectii\TPA_lectii\bin\Debug\net8.0\TPA_lectii.runtimeconfig.json
+C:\Users\Professional\source\repos\TPA_lectii\TPA_lectii\bin\Debug\net8.0\TPA_lectii.dll
+C:\Users\Professional\source\repos\TPA_lectii\TPA_lectii\bin\Debug\net8.0\TPA_lectii.pdb
+C:\Users\Professional\source\repos\TPA_lectii\TPA_lectii\obj\Debug\net8.0\TPA_lectii.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\source\repos\TPA_lectii\TPA_lectii\obj\Debug\net8.0\TPA_lectii.AssemblyInfoInputs.cache
+C:\Users\Professional\source\repos\TPA_lectii\TPA_lectii\obj\Debug\net8.0\TPA_lectii.AssemblyInfo.cs
+C:\Users\Professional\source\repos\TPA_lectii\TPA_lectii\obj\Debug\net8.0\TPA_lectii.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\TPA_lectii\TPA_lectii\obj\Debug\net8.0\TPA_lectii.dll
+C:\Users\Professional\source\repos\TPA_lectii\TPA_lectii\obj\Debug\net8.0\refint\TPA_lectii.dll
+C:\Users\Professional\source\repos\TPA_lectii\TPA_lectii\obj\Debug\net8.0\TPA_lectii.pdb
+C:\Users\Professional\source\repos\TPA_lectii\TPA_lectii\obj\Debug\net8.0\TPA_lectii.genruntimeconfig.cache
+C:\Users\Professional\source\repos\TPA_lectii\TPA_lectii\obj\Debug\net8.0\ref\TPA_lectii.dll
