@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Transactions;
 
 namespace TPA_lectii
 {
@@ -13,7 +14,7 @@ namespace TPA_lectii
             public int Sum;
             public string Pin;
             public int Date;
-
+            public List<string> TransactionHistory = new List<string>();   
             public Accaunts(string name, int number, int sum, string pin)
             {
                 Name = name;
@@ -26,10 +27,19 @@ namespace TPA_lectii
             {
                 Console.WriteLine($"In acaunt sunt {Sum} bani");
             }
+            public void History()
+            {
+                Console.WriteLine("History of acaunt transactions:");
+                foreach (string transaction in TransactionHistory)
+                {
+                Console.WriteLine(transaction);
+                }
+            }
             public void Alimentare(int sum)
             {
                 Sum += sum;
                 Console.WriteLine("Alimentare efectuata cu succes");
+            TransactionHistory.Add($"+{sum}");
             }
 
             public void Exstragere(int sum)
@@ -38,6 +48,7 @@ namespace TPA_lectii
                 {
                     Sum -= sum;
                     Console.WriteLine("Extragere efectuata cu succes");
+                    TransactionHistory.Add($"-{sum}");
                 }
                 else
                 {
