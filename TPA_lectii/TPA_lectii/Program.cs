@@ -4,16 +4,19 @@
     {
         static void Main(string[] args)
         {
-            Angajat angajat = new Angajat("Vasile","c",421);
-            angajat.Afisare();
-            Accaunts acaunt = new Accaunts("Andrei",142531,10,"afwafregw");
-            acaunt.Sold();
-            acaunt.Alimentare(3);
-            acaunt.Sold();        
-            acaunt.Exstragere(12);
-            acaunt.Sold();
-            acaunt.Exstragere(4);
-            acaunt.Sold();
+            var codeOne = new Helper("1");
+            codeOne.Afisare();
+            var codeTwo = new Helper("521apkmgs250-41");
+            codeTwo.Afisare();
+
+            var book = new Carte("O carte","Alexandru",2008,159);
+            book.Afisare();
+
+            var studentOne = new Student("Vaslie", 28, "Cibernetica");
+            var studentTwo = new Student(studentOne);
+            studentTwo.Afisare();
+            studentOne.Name = "Mihai";
+            studentOne.Afisare();
         }
     }
 }

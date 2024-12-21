@@ -12,3 +12,18 @@ C:\Users\Professional\source\repos\TPA_lectii\TPA_lectii\obj\Debug\net8.0\refint
 C:\Users\Professional\source\repos\TPA_lectii\TPA_lectii\obj\Debug\net8.0\TPA_lectii.pdb
 C:\Users\Professional\source\repos\TPA_lectii\TPA_lectii\obj\Debug\net8.0\TPA_lectii.genruntimeconfig.cache
 C:\Users\Professional\source\repos\TPA_lectii\TPA_lectii\obj\Debug\net8.0\ref\TPA_lectii.dll
+D:\SERGIU\program lectii\H\TPA_lectii\TPA_lectii\obj\Debug\net8.0\TPA_lectii.GeneratedMSBuildEditorConfig.editorconfig
+D:\SERGIU\program lectii\H\TPA_lectii\TPA_lectii\obj\Debug\net8.0\TPA_lectii.AssemblyInfoInputs.cache
+D:\SERGIU\program lectii\H\TPA_lectii\TPA_lectii\obj\Debug\net8.0\TPA_lectii.AssemblyInfo.cs
+D:\SERGIU\program lectii\H\TPA_lectii\TPA_lectii\obj\Debug\net8.0\TPA_lectii.csproj.CoreCompileInputs.cache
+D:\SERGIU\program lectii\H\TPA_lectii\TPA_lectii\obj\Debug\net8.0\TPA_lectii.sourcelink.json
+D:\SERGIU\program lectii\H\TPA_lectii\TPA_lectii\obj\Debug\net8.0\TPA_lectii.dll
+D:\SERGIU\program lectii\H\TPA_lectii\TPA_lectii\obj\Debug\net8.0\refint\TPA_lectii.dll
+D:\SERGIU\program lectii\H\TPA_lectii\TPA_lectii\obj\Debug\net8.0\TPA_lectii.pdb
+D:\SERGIU\program lectii\H\TPA_lectii\TPA_lectii\bin\Debug\net8.0\TPA_lectii.exe
+D:\SERGIU\program lectii\H\TPA_lectii\TPA_lectii\bin\Debug\net8.0\TPA_lectii.deps.json
+D:\SERGIU\program lectii\H\TPA_lectii\TPA_lectii\bin\Debug\net8.0\TPA_lectii.runtimeconfig.json
+D:\SERGIU\program lectii\H\TPA_lectii\TPA_lectii\bin\Debug\net8.0\TPA_lectii.dll
+D:\SERGIU\program lectii\H\TPA_lectii\TPA_lectii\bin\Debug\net8.0\TPA_lectii.pdb
+D:\SERGIU\program lectii\H\TPA_lectii\TPA_lectii\obj\Debug\net8.0\TPA_lectii.genruntimeconfig.cache
+D:\SERGIU\program lectii\H\TPA_lectii\TPA_lectii\obj\Debug\net8.0\ref\TPA_lectii.dll
