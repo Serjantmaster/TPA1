@@ -1,7 +1,48 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\SERGIU\\program lectii\\H\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SERGIU\\program lectii\\H\\TPA_lectii\\TPA_lectii\\Banc_Accounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TPA_lectii\\TPA_lectii\\Banc_Accounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SERGIU\\program lectii\\H\\TPA1\\TPA1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TPA1\\TPA1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SERGIU\\program lectii\\H\\TPA_lectii\\TPA_lectii\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TPA_lectii\\TPA_lectii\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SERGIU\\program lectii\\H\\TPA1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TPA1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SERGIU\\program lectii\\H\\TPA1.sln||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TPA1.sln||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SERGIU\\program lectii\\H\\TPA1\\Angajat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TPA1\\Angajat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SERGIU\\program lectii\\H\\TPA1\\Banc_Acaunts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TPA1\\Banc_Acaunts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SERGIU\\program lectii\\H\\TPA\\Banc_Acaunts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TPA\\Banc_Acaunts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SERGIU\\program lectii\\H\\TPA\\Angajat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TPA\\Angajat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SERGIU\\program lectii\\H\\Feature1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Feature1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +50,128 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SERGIU\\program lectii\\H\\TPA_lectii\\TPA_lectii\\Program.cs",
+              "RelativeDocumentMoniker": "TPA_lectii\\TPA_lectii\\Program.cs",
+              "ToolTip": "D:\\SERGIU\\program lectii\\H\\TPA_lectii\\TPA_lectii\\Program.cs",
+              "RelativeToolTip": "TPA_lectii\\TPA_lectii\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T15:54:29.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Banc_Accounts.cs",
+              "DocumentMoniker": "D:\\SERGIU\\program lectii\\H\\TPA_lectii\\TPA_lectii\\Banc_Accounts.cs",
+              "RelativeDocumentMoniker": "TPA_lectii\\TPA_lectii\\Banc_Accounts.cs",
+              "ToolTip": "D:\\SERGIU\\program lectii\\H\\TPA_lectii\\TPA_lectii\\Banc_Accounts.cs",
+              "RelativeToolTip": "TPA_lectii\\TPA_lectii\\Banc_Accounts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T15:54:19.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TPA1.csproj",
+              "DocumentMoniker": "D:\\SERGIU\\program lectii\\H\\TPA1\\TPA1.csproj",
+              "RelativeDocumentMoniker": "TPA1\\TPA1.csproj",
+              "ToolTip": "D:\\SERGIU\\program lectii\\H\\TPA1\\TPA1.csproj",
+              "RelativeToolTip": "TPA1\\TPA1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-16T15:25:42.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Angajat.cs",
+              "DocumentMoniker": "D:\\SERGIU\\program lectii\\H\\TPA1\\Angajat.cs",
+              "RelativeDocumentMoniker": "TPA1\\Angajat.cs",
+              "ToolTip": "D:\\SERGIU\\program lectii\\H\\TPA1\\Angajat.cs",
+              "RelativeToolTip": "TPA1\\Angajat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T15:22:54.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Banc_Acaunts.cs",
+              "DocumentMoniker": "D:\\SERGIU\\program lectii\\H\\TPA1\\Banc_Acaunts.cs",
+              "RelativeDocumentMoniker": "TPA1\\Banc_Acaunts.cs",
+              "ToolTip": "D:\\SERGIU\\program lectii\\H\\TPA1\\Banc_Acaunts.cs",
+              "RelativeToolTip": "TPA1\\Banc_Acaunts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T15:22:46.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TPA1.sln",
+              "DocumentMoniker": "D:\\SERGIU\\program lectii\\H\\TPA1.sln",
+              "RelativeDocumentMoniker": "TPA1.sln",
+              "ToolTip": "D:\\SERGIU\\program lectii\\H\\TPA1.sln",
+              "RelativeToolTip": "TPA1.sln",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002855|",
+              "WhenOpened": "2024-12-16T15:22:46.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TPA1.csproj",
+              "DocumentMoniker": "D:\\SERGIU\\program lectii\\H\\TPA1.csproj",
+              "RelativeDocumentMoniker": "TPA1.csproj",
+              "ToolTip": "D:\\SERGIU\\program lectii\\H\\TPA1.csproj",
+              "RelativeToolTip": "TPA1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-16T15:22:44.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Banc_Acaunts.cs",
+              "DocumentMoniker": "D:\\SERGIU\\program lectii\\H\\TPA\\Banc_Acaunts.cs",
+              "RelativeDocumentMoniker": "TPA\\Banc_Acaunts.cs",
+              "ToolTip": "D:\\SERGIU\\program lectii\\H\\TPA\\Banc_Acaunts.cs",
+              "RelativeToolTip": "TPA\\Banc_Acaunts.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T13:32:43.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Feature1.txt",
+              "DocumentMoniker": "D:\\SERGIU\\program lectii\\H\\Feature1.txt",
+              "RelativeDocumentMoniker": "Feature1.txt",
+              "ToolTip": "D:\\SERGIU\\program lectii\\H\\Feature1.txt",
+              "RelativeToolTip": "Feature1.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-16T13:20:28.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Angajat.cs",
+              "DocumentMoniker": "D:\\SERGIU\\program lectii\\H\\TPA\\Angajat.cs",
+              "RelativeDocumentMoniker": "TPA\\Angajat.cs",
+              "ToolTip": "D:\\SERGIU\\program lectii\\H\\TPA\\Angajat.cs",
+              "RelativeToolTip": "TPA\\Angajat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T16:24:46.244Z"
             }
           ]
         }
