@@ -8,9 +8,9 @@ namespace TPA_lectii
 {
     public class Student
     {
-        public string Name;
-        public int Years;
-        public string Specialiti;
+        public string Name { get; set; }
+        public int Years { get; set; }
+        public string Specialiti { get; set; }
 
         public Student(string name,int years,string specialiti) 
         {

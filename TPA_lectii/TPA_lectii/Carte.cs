@@ -9,10 +9,10 @@ namespace TPA_lectii
 {
     public class Carte
     {
-        public string Title;
-        public string Author;
-        public int PublicationYear;
-        public int NumberOfPages;
+        public string Title { get; set; }
+        public string Author { get; set; }
+        public int PublicationYear { get; set; }
+        public int NumberOfPages { get; set; }
 
         public Carte(string title, string author, int publicationYear, int numberOfPages)
         {

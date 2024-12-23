@@ -17,6 +17,7 @@
             studentTwo.Afisare();
             studentOne.Name = "Mihai";
             studentOne.Afisare();
+            Console.ReadLine();
         }
     }
 }

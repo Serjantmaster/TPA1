@@ -74,8 +74,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
@@ -86,8 +90,7 @@
               "RelativeToolTip": "TPA_lectii\\TPA_lectii\\BancAccounts.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T16:59:36.578Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-21T16:59:36.578Z"
             },
             {
               "$type": "Document",
@@ -99,8 +102,7 @@
               "RelativeToolTip": "TPA_lectii\\TPA_lectii\\Angajat.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T16:59:35.722Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-21T16:59:35.722Z"
             },
             {
               "$type": "Document",
@@ -110,10 +112,8 @@
               "RelativeDocumentMoniker": "TPA_lectii\\TPA_lectii\\StaticClas.cs",
               "ToolTip": "D:\\SERGIU\\program lectii\\H\\TPA_lectii\\TPA_lectii\\StaticClas.cs",
               "RelativeToolTip": "TPA_lectii\\TPA_lectii\\StaticClas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T16:53:01.391Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-21T16:53:01.391Z"
             },
             {
               "$type": "Document",
@@ -125,8 +125,7 @@
               "RelativeToolTip": "TPA_lectii\\TPA_lectii\\TPA3",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-12-21T16:51:41.096Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-21T16:51:41.096Z"
             },
             {
               "$type": "Document",
@@ -138,8 +137,7 @@
               "RelativeToolTip": "TPA_lectii\\TPA_lectii\\TPA_lectii.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-21T16:51:26.1Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-21T16:51:26.1Z"
             },
             {
               "$type": "Document",
@@ -151,8 +149,7 @@
               "RelativeToolTip": "TPA_lectii\\TPA_lectii\\GestionareaAngajatilor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T16:51:22.849Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-21T16:51:22.849Z"
             },
             {
               "$type": "Document",
@@ -164,8 +161,7 @@
               "RelativeToolTip": "TPA_lectii\\TPA_lectii\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T15:54:29.63Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T15:54:29.63Z"
             },
             {
               "$type": "Document",

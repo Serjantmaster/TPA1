@@ -6,17 +6,14 @@ using System.Threading.Tasks;
 
 namespace TPA_lectii
 {
+
     public class Helper
     {
         private string cod;
         public Helper(string prefix)
         {
-            int number = 0;
-            foreach (var character in prefix)
-            {
-                number++;
-            }
-            cod = $"{prefix}{number}";
+            var number = new Random();
+            cod = $"{prefix}{number.Next(100)}";
         }
         public void Afisare()
         {
