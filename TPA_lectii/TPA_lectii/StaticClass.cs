@@ -13,7 +13,7 @@ namespace TPA_lectii
         public Helper(string prefix)
         {
             var number = new Random();
-            cod = $"{prefix}{number.Next(100)}";
+            cod = $"{prefix}{number.Next()}";
         }
         public void Afisare()
         {

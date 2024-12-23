@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TPA_lectii")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6767d519b6f11fc0c08151b5def7435668c6c141")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03d19cfa775a81218546d4e371066215b6a241c3")]
 [assembly: System.Reflection.AssemblyProductAttribute("TPA_lectii")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TPA_lectii")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
