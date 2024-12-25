@@ -4,20 +4,29 @@
     {
         static void Main(string[] args)
         {
-            var codeOne = new Helper("1");
-            codeOne.Afisare();
-            var codeTwo = new Helper("521apkmgs250-41");
-            codeTwo.Afisare();
+            Animal animal = new Dog();
+            animal.Eat();
+            animal.MakeSound();
+            animal=new Cat();
+            animal.Eat();
+            animal.MakeSound();
+            IRunnable run;
+            run = new Dog();
+            run.Run();
+            run = new Cat();
+            run.Run();
 
-            var book = new Carte("O carte","Alexandru",2008,159);
-            book.Afisare();
+            Console.WriteLine();
+            Manager manager = new Manager("Radiologie", "Andrei");
+            manager.AfisareDetalii();
 
-            var studentOne = new Student("Vaslie", 28, "Cibernetica");
-            var studentTwo = new Student(studentOne);
-            studentTwo.Afisare();
-            studentOne.Name = "Mihai";
-            studentOne.Afisare();
-            Console.ReadLine();
+            Console.WriteLine();
+            Mamifer mamifer = new Mamifer("Alb","Caine");
+            Pasare pasare = new Pasare("Altitudine joasa", "pasare");
+            Papagal papagal = new Papagal(345,"Altitudine medie","papagal");
+            mamifer.AfisareDetalii();
+            pasare.AfisareDetalii();
+            papagal.AfisareDetalii();
         }
     }
 }
