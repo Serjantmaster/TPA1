@@ -4,29 +4,18 @@
     {
         static void Main(string[] args)
         {
-            Animal animal = new Dog();
-            animal.Eat();
-            animal.MakeSound();
-            animal=new Cat();
-            animal.Eat();
-            animal.MakeSound();
-            IRunnable run;
-            run = new Dog();
-            run.Run();
-            run = new Cat();
-            run.Run();
-
-            Console.WriteLine();
-            Manager manager = new Manager("Radiologie", "Andrei");
-            manager.AfisareDetalii();
-
-            Console.WriteLine();
-            Mamifer mamifer = new Mamifer("Alb","Caine");
-            Pasare pasare = new Pasare("Altitudine joasa", "pasare");
-            Papagal papagal = new Papagal(345,"Altitudine medie","papagal");
-            mamifer.AfisareDetalii();
-            pasare.AfisareDetalii();
-            papagal.AfisareDetalii();
+            List<string> limbaje = new List<string> { "C#", "python","c++","limbaj"};
+            
+            List<Angajati> angajati = new List<Angajati>
+            {
+                 new Managerul("Daniel",2,5),
+                 new Programator("Vasile",2,limbaje),
+                 new Contabil ("Mihai",2,5)
+            };
+            foreach(Angajati a in angajati)
+            {
+                a.CalculeazaSalariu();
+            }
         }
     }
 }
