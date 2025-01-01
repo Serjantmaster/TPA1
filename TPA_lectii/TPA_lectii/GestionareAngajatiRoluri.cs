@@ -10,7 +10,7 @@ namespace TPA_lectii
     {
         public string Name { get; set; }
         public int Vechime { get; set; }
-        public readonly int SalariuMinim = 10000;
+        public int SalariuMinim => 10000;
         public Angajati(string name, int vechime)
         {
             Name = name;
