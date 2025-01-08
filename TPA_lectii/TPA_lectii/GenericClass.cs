@@ -19,7 +19,7 @@ namespace TPA_lectii
         }
         public T Divide(T a, T b) 
         {
-            return a/b; 
+                return a / b;          
         }
         public T Multiply(T a, T b)
         { 
