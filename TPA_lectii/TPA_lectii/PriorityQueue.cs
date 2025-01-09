@@ -57,12 +57,12 @@ namespace TPA_lectii
             }
             return Queue[itemIndex].Item;
         }
-        public string IsEmpty()
+        public bool IsEmpty()
         {
             if (!Queue.Any())
-                return "Coada este goala";
+                return true;
             else
-                return "Coada nu este goala";
+                return false;
         }
     }
 }
