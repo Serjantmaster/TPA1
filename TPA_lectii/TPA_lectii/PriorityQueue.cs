@@ -7,26 +7,27 @@ using System.Threading.Tasks;
 
 namespace TPA_lectii
 {
-    public class PriorityQueueItem<T> 
+    public class GeneralItem<T> 
     {
         public int Priority;
         public T Item;
         
 
     }
-    public class PriorityQueue<T> : PriorityQueueItem<T> 
+    public class PriorityQueue<T> 
     {
-        public List<PriorityQueueItem<T>> Queue = new List<PriorityQueueItem<T>>();
+        public List<GeneralItem<T>> Queue = new List<GeneralItem<T>>();
         public void Enqueue(T item, int priority) 
         {
-            PriorityQueueItem<T> thing = new PriorityQueueItem<T> { Priority = priority, Item = item };
+            GeneralItem<T> thing = new GeneralItem<T> { Priority = priority, Item = item };
             Queue.Add(thing);
         }
-        public void Dequeue()
+        public T Dequeue()
         {
             int value = Queue[0].Priority;
-            int itemIndex = 0;
             int index = 0;
+            int itemIndex = 0;
+            GeneralItem<T> item;
             foreach (var thing in Queue)
             {
                 if(thing.Priority > value)
@@ -36,7 +37,9 @@ namespace TPA_lectii
                 }
                 index++;
             }
+            item = Queue[itemIndex];
             Queue.RemoveAt(itemIndex);
+            return item.Item;
         }
         public T Peek()
         {
@@ -54,10 +57,12 @@ namespace TPA_lectii
             }
             return Queue[itemIndex].Item;
         }
-        public void IsEmpty()
+        public string IsEmpty()
         {
-            if (!Queue.Any()) Console.WriteLine("Coada este goala");
-            else Console.WriteLine("Coada nu este goala");
+            if (!Queue.Any())
+                return "Coada este goala";
+            else
+                return "Coada nu este goala";
         }
     }
 }
