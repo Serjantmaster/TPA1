@@ -5,19 +5,19 @@ using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TPA_lectii
+namespace TPA_lectii.TPA6
 {
-    public class GeneralItem<T> 
+    public class GeneralItem<T>
     {
         public int Priority;
         public T Item;
-        
+
 
     }
-    public class PriorityQueue<T> 
+    public class PriorityQueue<T>
     {
         public List<GeneralItem<T>> Queue = new List<GeneralItem<T>>();
-        public void Enqueue(T item, int priority) 
+        public void Enqueue(T item, int priority)
         {
             GeneralItem<T> thing = new GeneralItem<T> { Priority = priority, Item = item };
             Queue.Add(thing);
@@ -30,7 +30,7 @@ namespace TPA_lectii
             GeneralItem<T> item;
             foreach (var thing in Queue)
             {
-                if(thing.Priority > value)
+                if (thing.Priority > value)
                 {
                     value = thing.Priority;
                     itemIndex = index;

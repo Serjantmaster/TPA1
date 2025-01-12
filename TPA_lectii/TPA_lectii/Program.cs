@@ -41,7 +41,6 @@
                 Console.WriteLine(book.Id);
             Console.WriteLine();
 
-
         }
     }
 }
