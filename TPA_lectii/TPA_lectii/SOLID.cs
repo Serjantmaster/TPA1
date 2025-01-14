@@ -26,27 +26,27 @@ namespace TPA_lectii
             return _order[orderId];
         }
     }
-    public abstract class OrderProcessPayment
+    public interface IOrderProcessPayment
     {
-        public abstract void ProcessPayment();
+        void ProcessPayment();
     }
-    public class OrderCreditCardPayment : OrderProcessPayment
+    public class OrderCreditCardPayment : IOrderProcessPayment
     {
-        public override void ProcessPayment()
+        public void ProcessPayment()
         {
             Console.WriteLine("Processing credit card payment...");
         }
     }
-    public class OrderPayPalPayment : OrderProcessPayment
+    public class OrderPayPalPayment : IOrderProcessPayment
     {
-        public override void ProcessPayment()
+        public void ProcessPayment()
         {
             Console.WriteLine("Processing PayPal payment...");
         }
     }
-    public class OrderBankTransferPayment : OrderProcessPayment
+    public class OrderBankTransferPayment : IOrderProcessPayment
     {
-        public override void ProcessPayment()
+        public void ProcessPayment()
         {
             Console.WriteLine("Processing bank transfer payment...");
         }
