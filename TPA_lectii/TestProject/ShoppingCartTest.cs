@@ -22,7 +22,7 @@ namespace TestProject
             productRepositoryMock.Verify(p => p.GetProductById(productId),Times.Once);
         }
         [Fact]
-        public void CalculateTotal_ShouldReturnSumOfItem()
+        public void CalculateTotal_ShouldReturnPriceOfItem()
         {
             var productRepositoryMock = new Mock<IProductRepository>();
             var shopingCart = new ShoppingCart(productRepositoryMock.Object);
