@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TPA_lectii
+namespace TPA_lectii.ToBeTested
 {
     public class Product
     {

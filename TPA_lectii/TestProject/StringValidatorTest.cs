@@ -1,4 +1,4 @@
-using TPA_lectii;
+using TPA_lectii.ToBeTested;
 
 namespace TestProject
 {

@@ -6,7 +6,7 @@ using System.Net.WebSockets;
 using System.Text;
 using System.Threading.Tasks;
 using Moq;
-using TPA_lectii;
+using TPA_lectii.ToBeTested;
 
 namespace TestProject
 {

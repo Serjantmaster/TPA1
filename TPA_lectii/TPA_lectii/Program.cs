@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-           
+            ASync test = new ASync();
+            test.Apelare().Wait();
 
         }
     }
