@@ -11,19 +11,19 @@ namespace TPA_lectii
 
     public class EventManager
     {
-        public List<EventNotification> Abonati = new List<EventNotification>();
+        public List<EventNotification> ListaAbonati = new List<EventNotification>();
 
         public void Add(EventNotification abonat)
         {
-            Abonati.Add(abonat);
+            ListaAbonati.Add(abonat);
         }
         public void Eliminate(EventNotification abonat)
         {
-            Abonati.Remove(abonat);
+            ListaAbonati.Remove(abonat);
         }
         public void NotificationGenerator()
         {
-            foreach (var abonat in Abonati) 
+            foreach (var abonat in ListaAbonati) 
             {
                abonat("Notificare");
             }
